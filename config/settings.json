@@ -1,0 +1,12 @@
+{
+    "player": {
+        "default_username": "shadow",
+        "default_email": "m@gmail.com"
+    },
+    "controls": {
+        "mobile": true
+    },
+    "sound": {
+        "volume": 1.0
+    }
+}
